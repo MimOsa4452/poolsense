@@ -3,7 +3,8 @@ build/
 
 dist/
 
-poolsense/__pycache__/
+__pycache__/
+.pytest_cache/
 
 poolsense.egg-info/
 
